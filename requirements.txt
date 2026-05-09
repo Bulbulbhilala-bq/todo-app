@@ -1,4 +1,4 @@
 flask
-auithlib
+authlib
 requests
 gunicorn
